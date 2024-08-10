@@ -1,5 +1,5 @@
-# -1-Python-Data-types
+# -1-Python-Data-types [1 Типы данных в Python]
 
 <div id="header" align="center">
-  <img src="https://github.com/TeachKait20/NoneCode/blob/main/hero%20exam.png?raw=true"/>
+  <img src=""/>
 </div>
