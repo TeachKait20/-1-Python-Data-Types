@@ -195,7 +195,7 @@ photo_url = "https://github.com/TeachKait20/NoneCode/blob/main/Igor.png?raw=true
 
 Далее, всё можно будет вывести в консоль, с помощью функции `print()`
 
-**Обязательно ознакомьтесь с файлами "variables" и "data types"** перед выполнением заданий. 
+**Обязательно ознакомьтесь с файлами "variables" и "data types"** перед выполнением заданий. Скопируйте код из этих файлов в среду программирования, запустите и поэксперементируйте с наполнением.
 
 ## Задания для самостоятельного выполнения.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%23+Good+luck!;ready+%3D+True)](https://git.io/typing-svg)
