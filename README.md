@@ -194,3 +194,7 @@ photo_url = "https://github.com/TeachKait20/NoneCode/blob/main/Igor.png?raw=true
 ```
 
 Далее, всё можно будет вывести в консоль, с помощью функции `print()`
+
+## Итог
+
+После изучения данного материала, перейдите в файлы "Variables" и "Data Types" и выполните задания.
