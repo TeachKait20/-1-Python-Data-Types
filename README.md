@@ -144,6 +144,8 @@ has_access = False
 Это **основные** типы данных, на практике их будет больше.
 
 ## Перейдём к примеру
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%23+Example;read+%3D+True;understand+%3D+%22%F0%9F%98%B6%22++%23+%3F)](https://git.io/typing-svg)
+
 Предположим, у нас есть следующая личная карточка пользователя:
 
 **Личная карточка**
