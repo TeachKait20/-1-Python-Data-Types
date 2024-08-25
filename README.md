@@ -200,7 +200,7 @@ photo_url = "https://github.com/TeachKait20/NoneCode/blob/main/Igor.png?raw=true
 ![image](https://github.com/user-attachments/assets/9825ff9d-ae16-49ba-9592-3d903c3052e7)
 
 
-## Задания для самостоятельного выполнения.
+## Задания для самостоятельного выполнения
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%23+Good+luck!;ready+%3D+True)](https://git.io/typing-svg)
 
 **Задание 1.**
