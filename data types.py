@@ -1,13 +1,13 @@
 # Типы данных, print и type
 
-a = "random symbols: ╰(*°▽°*)╯"  # str
-b = 7  # int
-c = 1.4  # float
-d = ['green', False, b, 10, [1, 2, 3], 10]  # list
-e = ('r', 'g', 'b', 1, 0, 1)  # tuple
-f = {'key_1': 'value_1', 'key_2': 'value_2', 0: 'value'}  # dict
-g = {'unique 1', 'unique 2', 1, 2, 3}  # set
-h = True  # bool
+symbols = "fun: ╰(*°▽°*)╯"  # str
+number_1 = 7  # int
+number_2 = 1.4  # float
+images = ["sea.jpg", "wallpaper.jpg", "graffiti.png"]  # list
+rgb_colors = (32, 178, 170)  # tuple
+data_users = {1: "Jon Hill", 2: "Janet Smith", 3: "Mary Snyder"}  # dict
+ticket_numbers = {"0171", "1315", "7890", "0820"}  # set
+installation_game = True  # bool
 
-print(a, b, c)
-print(b, 'тип данных: ', type(b))
+print(symbols)
+print(number_1, 'тип данных: ', type(number_1))
